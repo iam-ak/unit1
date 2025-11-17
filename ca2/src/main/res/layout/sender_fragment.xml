@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:tag=""
+    android:background="@color/background">
+
+    <TextView
+        android:id="@+id/fragmentATitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fragment A - Data Sender"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/primary"
+        android:paddingBottom="16dp" />
+
+    <EditText
+        android:id="@+id/editTextMessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter your message here"
+        android:padding="12dp"
+        android:textColorHint="@color/secondary"
+        android:textColor="@color/text_dark"
+        android:background="@drawable/edit_text_background"
+        android:layout_marginBottom="12dp" />
+
+    <Button
+        android:id="@+id/btnSendData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send Data to Fragment B"
+        android:textColor="@color/white"
+        android:background="@drawable/button_background"
+        android:padding="12dp"
+        android:textStyle="bold" />
+
+</LinearLayout>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UniAdmission Portal</string>
+    <string name="loading">Loading...</string>
+    <string name="admission_info_title">Welcome to UniAdmission Portal</string>
+    <string name="admission_info_description">Apply for admission to our university, explore available courses and departments, rate your experience, and receive admission status notifications all in one place.</string>
+    <string name="apply_now">Apply Now</string>
+    <string name="view_courses">View Courses</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="contact_email">Email: admissions@university.edu</string>
+    <string name="contact_phone">Phone: +1 (555) 123-4567</string>
+
+    <!-- Admission Form -->
+    <string name="form_title">Admission Application Form</string>
+    <string name="full_name">Full Name</string>
+    <string name="enter_full_name">Enter your full name</string>
+    <string name="email_address">Email Address</string>
+    <string name="enter_email">Enter your email address</string>
+    <string name="department">Preferred Department</string>
+    <string name="enter_department">Enter your preferred department</string>
+    <string name="previous_gpa">Previous GPA</string>
+    <string name="enter_gpa">Enter your previous GPA</string>
+    <string name="submit_application">Submit Application</string>
+
+    <!-- Feedback -->
+    <string name="feedback_title">Rate Your Experience</string>
+    <string name="feedback_description">How would you rate the admission process? Your feedback helps us improve our services.</string>
+    <string name="select_rating">Select a rating</string>
+    <string name="submit_feedback">Submit Feedback</string>
+
+    <!-- Confirmation -->
+    <string name="back_to_home">Back to Home</string>
+</resources>
